@@ -1,0 +1,22 @@
+{
+  "name": "handwritting-ocr",
+  "version": "1.0.0",
+  "description": "Handwriting detection to text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pran-Ker/Handwritting-OCR.git"
+  },
+  "author": "Prannay Hebbar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pran-Ker/Handwritting-OCR/issues"
+  },
+  "homepage": "https://github.com/Pran-Ker/Handwritting-OCR#readme",
+  "dependencies": {
+    "@google-cloud/vision": "^3.1.3"
+  }
+}
